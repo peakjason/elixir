@@ -1,4 +1,5 @@
 ![Elixir](https://github.com/elixir-lang/elixir-lang.github.com/raw/master/images/logo/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeakjason%2Felixir.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeakjason%2Felixir?ref=badge_shield)
 =========
 [![Travis build](https://secure.travis-ci.org/elixir-lang/elixir.svg?branch=master
 "Build Status")](https://travis-ci.org/elixir-lang/elixir)
@@ -195,3 +196,6 @@ Elixir source code is released under Apache 2 License.
 
 Check [NOTICE](NOTICE) and [LICENSE](LICENSE) files for more
 information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeakjason%2Felixir.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeakjason%2Felixir?ref=badge_large)
